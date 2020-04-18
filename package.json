@@ -1,0 +1,11 @@
+{
+  "name": "kunda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "A small social network of images made in Svelte.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toxic#2381",
+  "license": "ISC"
+}
