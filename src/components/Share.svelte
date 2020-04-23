@@ -37,3 +37,16 @@
     font-size: 20px;
   }
 </style>
+
+<div class="Share">
+  <div class="Share-head">
+    <h2>Compartir</h2>
+    <i class="fas fa-times-circle" on:click />
+  </div>
+  <div class="Share-content">
+    <a href="https://www.facebook.com/sharer/sharer.php?&u=https://pugstagram.co">
+      <i class="fab fa-facebook-square" />
+      Compartir en Facebook
+    </a>
+  </div>
+</div>
