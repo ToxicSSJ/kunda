@@ -5,4 +5,8 @@ Kunda is my proposal for the main project of the Platzi svelte course. It is cur
 
 ## Tasks
 - [x] Webpack Configuration
-- [ ] Web Base
+- [x] Web Base
+- [x] Web Styles
+- [x] Basic API integration
+- [x] Comments Integration
+- [ ] Other Features 
