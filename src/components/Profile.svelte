@@ -1,3 +1,10 @@
+<script>
+  
+  export let nickname;
+  export let name;
+
+</script>
+
 <style>
   .Profile-content {
     display: flex;
@@ -29,8 +36,8 @@
       <img src="https://cdn.itoxic.me/low_profile.png" alt="" />
     </div>
     <div class="Profile-info">
-      <h2>Toxic#2381</h2>
-      <span>Abraham M. Lora</span>
+      <h2>{nickname}</h2>
+      <span>{name}</span>
     </div>
   </div>
 </div>
