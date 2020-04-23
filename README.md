@@ -11,5 +11,5 @@ Kunda is my proposal for the main project of the Platzi svelte course. It is cur
 - [x] Comments Integration
 - [x] Likes System 
 - [x] Likes Store 
-- [ ] Netlify Deploy
-- [ ] Other Features 
+- [x] Netlify Deploy
+- [ ] Other Features (Soon)
