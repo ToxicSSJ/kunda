@@ -1,7 +1,10 @@
 ![https://github.com/zlToxicNetherlz/kunda](https://img.shields.io/badge/Status-Under%20Development-lightgreen?style=for-the-badge)
 
 ## Kunda
-Kunda is my proposal for the main project of the Platzi svelte course. It is currently in development and each change will be immediately uploaded to this repository.
+Kunda is my proposal for the main project of the Platzi svelte course.
+
+## Netlify
+**Demo:** https://kunda.netlify.app/
 
 ## Tasks
 - [x] Webpack Configuration
@@ -12,4 +15,5 @@ Kunda is my proposal for the main project of the Platzi svelte course. It is cur
 - [x] Likes System 
 - [x] Likes Store 
 - [x] Netlify Deploy
+- [x] Course Finished
 - [ ] Other Features (Soon)
