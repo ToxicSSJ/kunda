@@ -3,7 +3,7 @@
 ## Kunda
 Kunda is my proposal for the main project of the Platzi svelte course.
 
-## Netlify
+## Netlify Tests
 **Demo:** https://kunda.netlify.app/
 
 ## Tasks
